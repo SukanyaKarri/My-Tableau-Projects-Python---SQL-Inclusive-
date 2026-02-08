@@ -51,7 +51,7 @@ These checks helped confirm distributions, but deeper insights required interlin
    - Validate null values
    - Check distributions
    - Update column formats
--***(Query scripts linked separately in the repository)*** [View_link] (./TB1/SQL_Script)
+-***View SQL Script:*** [Tableau Student Depression Analysis – SQL Script](./TB1/SQL_Script/Tableau_Project_Udemy_Student_Dep_Analysis.sql)
    
   **Analysis & Reporting Using Tableau**
 
@@ -68,15 +68,15 @@ The second approach was used for Tableau Public compatibility.
     - Prevents incorrect aggregation by Tableau  
   
   **Charts Created**
-  - 1.Academic Pressure vs Student Count (Bar Chart)
+  - Academic Pressure vs Student Count (Bar Chart)
     - Academic Pressure on Columns
     - Count of Index on Rows
     - Used CTRL selection to keep fields aligned
     - Helps understand how many students experience different pressure levels
-  - 2.Financial Stress vs Student Count
-  - 3.Suicidal Thoughts vs Student Count
-  - 4.Sleep Duration vs Student Count (Pie Chart)
-  - 5.Study Hours vs Student Count (Area Chart)
+  - Financial Stress vs Student Count
+  - Suicidal Thoughts vs Student Count
+  - Sleep Duration vs Student Count (Pie Chart)
+  - Study Hours vs Student Count (Area Chart)
  Each chart focuses on one contributing factor while maintaining consistent context across the analysis.
   
   **Dashboard**

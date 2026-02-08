@@ -51,7 +51,7 @@ These checks helped confirm distributions, but deeper insights required interlin
    - Validate null values
    - Check distributions
    - Update column formats
--***(Query scripts linked separately in the repository)***
+-***(Query scripts linked separately in the repository)*** [View_link] (./TB1/SQL_Script)
    
   **Analysis & Reporting Using Tableau**
 

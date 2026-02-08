@@ -77,6 +77,7 @@ The second approach was used for Tableau Public compatibility.
   - Suicidal Thoughts vs Student Count
   - Sleep Duration vs Student Count (Pie Chart)
   - Study Hours vs Student Count (Area Chart)
+  - Percentage of Depression for students due to academic pressure is calculated using percent of total (Bar Chart)
  Each chart focuses on one contributing factor while maintaining consistent context across the analysis.
   
   **Dashboard**
